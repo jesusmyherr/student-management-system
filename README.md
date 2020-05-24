@@ -1,4 +1,6 @@
 # student-management-system
+Erstellung eines Student-Verwaltungssystem mit SpringMVC, Spring, JDBC Template, MySQL und Tomcat 8.5
+
 
 	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
 		<!-- 注入属性 -->
